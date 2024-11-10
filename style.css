@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  position: fixed;
+  top: 50vh;
+}
+
+.subtitle {
+  position: fixed;
+  bottom: 2vh;
+}
+
+.body {
+  background-color: #000;
+  color: #00FF00;
+  font-family: monospace;
+}
