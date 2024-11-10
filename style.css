@@ -12,6 +12,7 @@
 .subtitle {
   position: fixed;
   bottom: 2vh;
+  text-align: center;
 }
 
 .body {
